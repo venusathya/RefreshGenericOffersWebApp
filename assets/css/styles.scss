@@ -33,7 +33,14 @@ snack-bar-container {
 .mat-menu-content {
   background: #3f51b5;
 }
-
+.mat-raised-button{
+    color: white !important;
+    background: black;
+ }
+ 
+.mat-menu-content{
+ background: #55596b;
+}
 .mat-menu-item, .mat-menu-item .mat-icon {
   color: white;
   font-weight: 100;
